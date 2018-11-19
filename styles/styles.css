@@ -1,5 +1,7 @@
 body {
 	font-family: Lato;
+	width: 100%;
+	max-width: 2000px;
 }
 
 header {
